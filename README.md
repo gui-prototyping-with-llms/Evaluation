@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11670442.svg)](https://zenodo.org/records/11670442)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11670442.svg)](https://doi.org/10.5281/zenodo.11670442)
 
 # Effective GUI generation: Leveraging LLMs for Automated GUI Prototyping
 
